@@ -13,6 +13,9 @@ Joey Tribbiani
 Phoebe Buffay
 Each character's profile includes a brief description of their personality, quirks, and memorable moments from the show.
 
+Seasons Overview
+Explore details about all 10 seasons of Friends, including major plot points, memorable episodes, and the evolution of the characters throughout the series. Whether you're looking to revisit a specific season or get a quick summary of the entire series, this section has you covered.
+
 Theme Song
 Relive the nostalgia with the Friends theme song, "I'll Be There for You" by The Rembrandts. The webpage includes an embedded player so you can listen to the song while browsing through the content.
 
@@ -24,5 +27,5 @@ HTML: For structuring the content.
 CSS: For styling and making the page visually appealing.
 
 How to Use
-Simply open the webpage in your browser to start exploring the content. Click on the character names to learn more about them, enjoy the theme song, and watch the trailer whenever you need a dose of Friends nostalgia.
+Simply open the webpage in your browser to start exploring the content. Click on the character names to learn more about them, browse through the seasons for a trip down memory lane, enjoy the theme song, and watch the trailer whenever you need a dose of Friends nostalgia.
 
